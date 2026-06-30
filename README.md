@@ -75,48 +75,60 @@ LinkedIn: [www.linkedin.com/in/aleesha-tariq-se](http://www.linkedin.com/in/alee
 GitHub: github.com/Aleesha1234
 
 ## Screenshots 
-### Splash Screen
 
-![Splash Screen](screenshots/splashscreen.jpeg)
+<p align="center"><b>Login Screen</b></p>
+<p align="center">
+  <img src="screenshots/login.jpeg" width="250"> &nbsp;&nbsp;&nbsp;
+</p>
 
-### Login Screen
+<p align="center"><b>Registration Screen</b></p>
+<p align="center">
+  <img src="screenshots/registration.jpeg" width="250"> &nbsp;&nbsp;&nbsp;
+</p>
 
-![Login Screen](screenshots/login.jpeg)
+<p align="center"><b>Home Screen</b></p>
+<p align="center">
+  <img src="screenshots/homescreen.jpeg" width="250"> &nbsp;&nbsp;&nbsp;
+</p>
 
-### Registration Screen
+<p align="center"><b>Emergency Contacts</b></p>
+<p align="center">
+  <img src="screenshots/emergencycontcts.jpeg" width="250">
+</p>
 
-![Registration Screen](screenshots/registration.jpeg)
+<p align="center"><b>SOS & Live Location Sharing</b></p>
+<p align="center">
+  <img src="screenshots/sos%20or%20live%20location%20sharing.jpeg" width="250">
+</p>
 
-### Home Screen
+<p align="center"><b>Mechanic Locator</b></p>
+<p align="center">
+  <img src="screenshots/mechanic%20locator.jpeg" width="250">
+</p>
 
-![Home Screen](screenshots/homescreen.jpeg)
+<p align="center"><b>Bike Marketplace</b></p>
+<p align="center">
+  <img src="screenshots/bikemarketplace.jpeg" width="250">
+</p>
 
-### Emergency Contacts
+<p align="center"><b>Bikers Community</b></p>
+<p align="center">
+  <img src="screenshots/bikerscommunity.jpeg" width="250">
+</p>
 
-![Emergency Contacts](screenshots/emergencycontcts.jpeg)
+<p align="center"><b>Group Chat</b></p>
+<p align="center">
+  <img src="screenshots/group%20chat.jpg" width="250">
+</p>
 
-### SOS & Live Location Sharing
+<p align="center"><b>DIY Garage - Screen 1</b></p>
+<p align="center">
+  <img src="screenshots/diy1.jpeg" width="250">
+</p>
 
-![SOS & Live Location Sharing](screenshots/sos%20or%20live%20location%20sharing.jpeg)
+<p align="center"><b>DIY Garage - Screen 2</b></p>
+<p align="center">
+  <img src="screenshots/diy2.jpeg" width="250">
+</p>
 
-### Mechanic Locator
 
-![Mechanic Locator](screenshots/mechanic%20locator.jpeg)
-
-### Bike Marketplace
-
-![Bike Marketplace](screenshots/bikemarketplace.jpeg)
-
-### Bikers Community
-
-![Bikers Community](screenshots/bikerscommunity.jpeg)
-
-### Group Chat
-
-![Group Chat](screenshots/group%20chat.jpg)
-
-### DIY Garage
-
-![DIY Garage](screenshots/diy1.jpeg)
-
-![DIY Garage](screenshots/diy2.jpeg)
